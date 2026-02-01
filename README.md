@@ -1,5 +1,5 @@
-[![AWS Solutions Architect – Associate](https://images.credly.com/images/0e2840e1-5b3a-4f6e-9d8a-8c7d5a7b8b9f.png)](https://www.credly.com/earner/earned/share/432e01eb-072d-4aa5-871b-896502532e8a)
-
+🔗 AWS Solutions Architect – Associate  
+https://www.credly.com/earner/earned/share/432e01eb-072d-4aa5-871b-896502532e8a
 
 ## Hi 👋
 
