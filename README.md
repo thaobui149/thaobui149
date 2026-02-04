@@ -1,5 +1,3 @@
-🔗 AWS Solutions Architect – Associate  
-https://www.credly.com/earner/earned/share/432e01eb-072d-4aa5-871b-896502532e8a
 
 ## Hi 👋
 
@@ -37,6 +35,8 @@ Focused implementation of AWS IAM following least-privilege principles.
 👉 [https://github.com/thaobui149/aws-iam-access-control-fundamentals](https://github.com/thaobui149/aws-iam-access-control-fundamentals)
 
 ---
+🔗 AWS Solutions Architect – Associate  
+https://www.credly.com/earner/earned/share/432e01eb-072d-4aa5-871b-896502532e8a
 
 ## 🎯 Focus
 
