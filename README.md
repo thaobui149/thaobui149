@@ -1,8 +1,6 @@
 
 ## Hi 👋
 
-AWS Solutions Architect – Associate certified with a technical background in construction architecture. Focused on cloud and platform engineering with an emphasis on practical, production-style infrastructure.
-
 This GitHub profile showcases hands-on AWS projects that demonstrate infrastructure design, access control, automation, and clear technical documentation.
 
 ---
