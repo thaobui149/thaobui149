@@ -36,6 +36,3 @@ Focused implementation of AWS IAM following least-privilege principles.
 🔗 AWS Solutions Architect – Associate  
 https://www.credly.com/earner/earned/share/432e01eb-072d-4aa5-871b-896502532e8a
 
-## 🎯 Focus
-
-Junior Cloud Engineer · Platform Engineer · Cloud Infrastructure
