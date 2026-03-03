@@ -1,4 +1,4 @@
-# Thi Phuong Thao Bui
+# Thao Bui
 
 Junior Systemadministration (Praktikum)
 
