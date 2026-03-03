@@ -7,7 +7,7 @@ Junior Systemadministration (Praktikum)
 🔗 LinkedIn: https://linkedin.com/in/thaobui149  
 
 ## Profil
-Berufliche Neuorientierung im IT-Bereich mit praktischer Erfahrung im Aufbau von Windows-Server-Umgebungen (Active Directory, GPO, DNS, File Server) sowie Linux-Administration.
+Berufliche Neuorientierung im IT-Bereich mit praktischen Kenntnissen aus eigenständig aufgebauten Windows-Server- und Linux-Testumgebungen.
 
 Ziel: Praktikum im IT-Service oder in der Systemadministration (Microsoft-Umfeld).
 
