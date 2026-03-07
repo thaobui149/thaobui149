@@ -1,43 +1,46 @@
 # Thao Bui
-**Junior Systemadministration (Praktikum)**
+**Junior System Administration (Internship)**
 
-📍 Magdeburg / Leipzig, Deutschland  
+📍 Magdeburg / Leipzig, Germany  
 📧 thaobui149@outlook.com  
 🔗 LinkedIn: https://linkedin.com/in/thaobui149  
 
 ---
 
-## Profil
-Berufliche Neuorientierung im IT-Bereich mit praktischen Kenntnissen aus praxisnah aufgebauten Windows-Server- und Linux-Testumgebungen.
+## Profile
 
-Ziel: Praktikum im IT-Service oder in der Systemadministration (Microsoft-Umfeld).
+Career transition into the IT field with practical experience gained from hands-on Windows Server and Linux lab environments.
+
+**Goal:** Internship in IT support or system administration (Microsoft environment).
 
 ---
 
-## Technische Kenntnisse
+## Technical Skills
 
-**Windows / Microsoft**
+### Windows / Microsoft
 - Windows Server 2022
 - Active Directory, GPO
 - DNS
-- NTFS- und Share-Berechtigungen
+- NTFS and Share Permissions
 
-**Linux**
+### Linux
 - Ubuntu Server
 - SSH
-- Firewall-Konfiguration
+- Firewall Configuration
 
-**Weitere Kenntnisse**
-- PowerShell (Grundlagen)
-- Netzwerkgrundlagen (TCP/IP, DNS)
-- Grundkenntnisse: AWS, Terraform
-
----
-
-## Zertifizierung
-AWS Certified Solutions Architect – Associate (SAA-C03)
+### Additional Skills
+- PowerShell (basic knowledge)
+- Networking fundamentals (TCP/IP, DNS)
+- Basic knowledge of AWS and Terraform
 
 ---
 
-## Arbeitserlaubnis
-Unbefristete Aufenthaltserlaubnis, Deutschland
+## Certification
+
+**AWS Certified Solutions Architect – Associate (SAA-C03)**
+
+---
+
+## Work Authorization
+
+Permanent residence permit, Germany
