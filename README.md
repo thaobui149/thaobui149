@@ -11,7 +11,7 @@
 
 Career transition into the IT field with practical experience gained from hands-on Windows Server and Linux lab environments.
 
-**Goal:** Internship in IT support or system administration (Microsoft environment).
+**Goal:** Internship in IT support or system administration .
 
 ---
 
