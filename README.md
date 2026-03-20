@@ -1,5 +1,5 @@
 # Thao Bui
-**Junior System Administration (Internship)**
+**Junior System Administration **
 
 📍 Magdeburg / Leipzig, Germany  
 📧 thaobui149@outlook.com  
@@ -11,7 +11,7 @@
 
 Career transition into the IT field with practical experience gained from hands-on Windows Server and Linux lab environments.
 
-**Goal:** Internship in IT support or system administration .
+**Goal:**  IT support or system administration .
 
 ---
 
