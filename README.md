@@ -1,7 +1,5 @@
 # Thao Bui
-**Junior System Administration **
-
-📍 Magdeburg / Leipzig, Germany  
+📍 Magdeburg, Germany  
 📧 thaobui149@outlook.com  
 🔗 LinkedIn: https://linkedin.com/in/thaobui149  
 
@@ -11,7 +9,7 @@
 
 Career transition into the IT field with practical experience gained from hands-on Windows Server and Linux lab environments.
 
-**Goal:**  IT support or system administration .
+**Goal:**  IT support or Junior system administration .
 
 ---
 
